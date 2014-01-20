@@ -1,0 +1,12 @@
+[submodule "python-stackato"]
+	path = python-stackato
+	url = git://github.com/bacongobbler/python-stackato
+[submodule "bacongobbler.github.io"]
+	path = bacongobbler.github.io
+	url = git://github.com/bacongobbler/bacongobbler.github.io
+[submodule "bcit-swag"]
+	path = bcit-swag
+	url = git://github.com/bacongobbler/bcit-swag
+[submodule "stackato-service-elasticsearch"]
+	path = stackato-service-elasticsearch
+	url = git://github.com/ActiveState/stackato-service-elasticsearch
