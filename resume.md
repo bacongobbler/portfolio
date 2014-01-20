@@ -90,6 +90,9 @@ My objective is to work long-term with a company as a DevOps Engineer or Softwar
 # Education
 
 * Diploma, Computer Systems Technology - British Columbia Institute of Technology - April 2012
+    * Developed application software using programming languages such as C, C++, C#, and Java
+    * Built desktop and Internet based applications with workable user interfaces
+    * Managed the software development process with tools such as Subversion or Git
 * High School Diploma, Principal's List - Kwalikum Secondary School - June 2010
 
 # Awards and Points of Interest
@@ -104,10 +107,11 @@ My objective is to work long-term with a company as a DevOps Engineer or Softwar
 
 # Interests
 
-* Contributing source code
+* Contributing to Open Source projects
 * Learning new technologies
 * Microbreweries
 * Game Development
+* Dancing
 * Ultimate Frisbee
 * Bowling
 * Guitar design/concepts
