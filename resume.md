@@ -9,6 +9,7 @@ My objective is to work long-term with a company as a DevOps Engineer or Softwar
 
 # Technical Skills
 
+* [Active contributor to open source technologies](http://osrc.dfm.io/bacongobbler/)
 * Proficient with common development tools such as:
     * [Stackato](http://www.activestate.com/stackato)
     * [Deis](http://deis.io)
