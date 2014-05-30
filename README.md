@@ -22,8 +22,8 @@ My objective is to work long-term with a company as a DevOps Engineer or Softwar
     * [Digital Ocean](https://www.digitalocean.com/)
 * Knowledge of Object Oriented Programming/Procedural Programming languages such as:
     * Python
+    * Go
     * Ruby
-    * PHP
     * HTML/CSS
     * C, C++, C#
 * Experience with common web frameworks such as:
@@ -33,15 +33,16 @@ My objective is to work long-term with a company as a DevOps Engineer or Softwar
     * CodeIgniter
     * ASP.NET
 * Competent with common web services such as:
-    * mysql
+    * postgresql
     * sqlite
-    * apache/nginx
+    * nginx
     * mongodb
     * jenkins
     * travis-ci
 * Proficient and comfortable with GitHub workflows
 * Proficient with most Operating Systems such as:
     * Debian-based Operating Systems
+    * CoreOS
     * Mac OSX
     * Windows
     * Arch Linux
@@ -49,8 +50,16 @@ My objective is to work long-term with a company as a DevOps Engineer or Softwar
 
 # Work Experience
 
+## Owner - Fishworks Development and Consulting
+### Feb 2014 to present
+
+* Learned how to start up a sole proprietorship
+* Contracted out for software development
+* Became a core maintainer of [Deis](http://deis.io/)
+* Met with customers for product promotion and technical interviews
+
 ## Product Manager - ActiveState Software, Inc
-### Feb 2013 to Present
+### Feb 2013 to Feb 2014
 
 * Forked Open Source Software on Github to make them compatible with Stackato
 * Created sample applications to demonstrate common web frameworks
@@ -96,6 +105,7 @@ My objective is to work long-term with a company as a DevOps Engineer or Softwar
 
 # Awards and Points of Interest
 
+* Co-organizer of the [Docker-Vancouver meetup group](http://www.meetup.com/Docker-vancouver/)
 * Active Githubber: http://github.com/bacongobbler
 * Active blogger: http://blog.bacongobbler.com
 * Attended a game jam in June 2013: http://jam.iamagamer.ca/submissions/30-game-changer
