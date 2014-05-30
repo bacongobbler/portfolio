@@ -5,7 +5,7 @@ Contact information available upon request
 
 # Objective
 
-My objective is to work long-term with a company as a DevOps Engineer or Software Developer.
+My objective is to work long-term with a company as a Automation Engineer or Software Developer.
 
 # Technical Skills
 
