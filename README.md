@@ -9,17 +9,18 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 
 # Technical Skills
 
-* [Active contributor to open source technologies](http://osrc.dfm.io/bacongobbler/)
+* [Active contributor on Github](http://github.com/bacongobbler)
 * Proficient with common development tools such as:
-    * [Stackato](http://www.activestate.com/stackato)
     * [Deis](http://deis.io)
+    * [Docker](http://www.docker.io/)
+    * [Stackato](http://www.activestate.com/stackato)
     * [Vagrant](http://www.vagrantup.com/)
     * [Chef](http://www.opscode.com/)
     * [Berkshelf](http://berkshelf.com/)
-    * [Docker](http://www.docker.io/)
-    * [GitHub](https://github.com/bacongobbler)
+* Experience working with cloud infrastructure platforms such as:
     * [Amazon Web Services](http://aws.amazon.com/)
     * [Digital Ocean](https://www.digitalocean.com/)
+    * [Rackspace](http://www.rackspace.com/)
 * Knowledge of Object Oriented Programming/Procedural Programming languages such as:
     * Python
     * Go
@@ -29,23 +30,21 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 * Experience with common web frameworks such as:
     * Django
     * Ruby on Rails
-    * Tornado
     * CodeIgniter
     * ASP.NET
 * Competent with common web services such as:
     * postgresql
     * sqlite
     * nginx
-    * mongodb
     * jenkins
-    * travis-ci
-* Proficient and comfortable with GitHub workflows
+    * [TravisCI](https://travis-ci.org/)
+    * [CircleCI](https://circleci.com/)
+* Proficient and comfortable in an agile environment
 * Proficient with most Operating Systems such as:
-    * Debian-based Operating Systems
-    * CoreOS
+    * Linux
     * Mac OSX
     * Windows
-    * Arch Linux
+    * [CoreOS](https://coreos.com)
 * Comfortable working both individually and with a team
 
 # Work Experience
@@ -56,6 +55,11 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 * Learned how to start up a sole proprietorship
 * Contracted out for software development
 * Became a core maintainer of [Deis](http://deis.io/)
+* Arranged meetings for debugging issues with clients
+* Assisted and reviewed community contributors' pull requests
+* Assisted in manual acceptance testing
+* Assisted in manual upgrade testing
+* Cut new versioned releases of Deis
 * Met with customers for product promotion and technical interviews
 
 ## Product Manager - ActiveState Software, Inc
@@ -106,7 +110,6 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 # Awards and Points of Interest
 
 * Co-organizer of the [Docker-Vancouver meetup group](http://www.meetup.com/Docker-vancouver/)
-* Active Githubber: http://github.com/bacongobbler
 * Active blogger: http://blog.bacongobbler.com
 * Attended a game jam in June 2013: http://jam.iamagamer.ca/submissions/30-game-changer
 * Received AeroInfo Award of Excellence
@@ -117,7 +120,7 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 # Interests
 
 * Contributing to Open Source projects
-* Learning new technologies
+* Microservice Architecture Patterns
 * Microbreweries
 * Game Development
 * Dancing
