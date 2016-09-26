@@ -19,8 +19,8 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
     * [Berkshelf](http://berkshelf.com/)
 * Experience working with cloud infrastructure platforms such as:
     * [Amazon Web Services](http://aws.amazon.com/)
+    * [Google Cloud Platform](https://cloud.google.com/)
     * [Digital Ocean](https://www.digitalocean.com/)
-    * [Rackspace](http://www.rackspace.com/)
 * Knowledge of Object Oriented Programming/Procedural Programming languages such as:
     * Python
     * Go
@@ -29,16 +29,14 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
     * C, C++, C#
 * Experience with common web frameworks such as:
     * Django
-    * Ruby on Rails
     * CodeIgniter
     * ASP.NET
 * Competent with common web services such as:
     * postgresql
-    * sqlite
     * nginx
+    * sqlite
     * jenkins
     * [TravisCI](https://travis-ci.org/)
-    * [CircleCI](https://circleci.com/)
 * Proficient and comfortable in an agile environment
 * Proficient with most Operating Systems such as:
     * Linux
@@ -59,7 +57,7 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 * Assisted and reviewed community contributors' pull requests
 * Assisted in manual acceptance testing
 * Assisted in manual upgrade testing
-* Cut new versioned releases of Deis
+* Cut new versioned releases of Deis and Deis-related products
 * Met with customers for product promotion and technical interviews
 
 ## Product Manager - ActiveState Software, Inc
