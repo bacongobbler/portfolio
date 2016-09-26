@@ -11,7 +11,7 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 
 * [Active contributor on Github](http://github.com/bacongobbler)
 * Proficient with common development tools such as:
-    * [Deis](http://deis.io)
+    * [Deis](https://deis.com)
     * [Kubernetes](http://kubernetes.io/)
     * [Docker](http://www.docker.io/)
     * [Stackato](http://www.activestate.com/stackato)
