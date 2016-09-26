@@ -13,7 +13,7 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 * Proficient with common development tools such as:
     * [Deis](https://deis.com)
     * [Kubernetes](http://kubernetes.io/)
-    * [Docker](http://www.docker.io/)
+    * [Docker](https://www.docker.com/)
     * [Stackato](http://www.activestate.com/stackato)
     * [Vagrant](http://www.vagrantup.com/)
     * [Chef](http://www.opscode.com/)
@@ -53,7 +53,7 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 
 * Learned how to start up a sole proprietorship
 * Contracted out for software development
-* Became a core maintainer of [Deis](http://deis.io/)
+* Became a core maintainer of [Deis](https://deis.com/)
 * Arranged meetings for debugging issues with clients
 * Assisted and reviewed community contributors' pull requests
 * Assisted in manual acceptance testing
