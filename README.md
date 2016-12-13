@@ -5,7 +5,7 @@ Contact information available upon request
 
 # Objective
 
-My objective is to work long-term with a company as a Automation Engineer or Software Developer.
+My objective is to work long-term with a company as a Site Reliability Engineer (SRE) or Software Engineer.
 
 # Technical Skills
 
@@ -17,31 +17,30 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
     * [Stackato](http://www.activestate.com/stackato)
     * [Vagrant](http://www.vagrantup.com/)
     * [Chef](http://www.opscode.com/)
-    * [Berkshelf](http://berkshelf.com/)
 * Experience working with cloud infrastructure platforms such as:
     * [Amazon Web Services](http://aws.amazon.com/)
     * [Google Cloud Platform](https://cloud.google.com/)
     * [Digital Ocean](https://www.digitalocean.com/)
-* Knowledge of Object Oriented Programming/Procedural Programming languages such as:
-    * Python
-    * Go
-    * Ruby
-    * HTML/CSS
-    * C, C++, C#
-* Experience with common web frameworks such as:
-    * Django
-    * CodeIgniter
-    * ASP.NET
 * Competent with common web services such as:
     * postgresql
     * nginx
     * sqlite
     * jenkins
     * [TravisCI](https://travis-ci.org/)
+* Proficient knowledge of Object Oriented Programming/Procedural Programming languages such as:
+    * Go
+    * Python
+    * Ruby
+    * HTML/CSS
+* Experience with common libraries such as:
+    * Go stdlib
+    * Django
 * Proficient and comfortable in an agile environment
 * Proficient with most Operating Systems such as:
-    * Linux
-    * Mac OSX
+    * Debian
+    * Ubuntu
+    * Arch Linux
+    * macOS
     * Windows
     * [CoreOS](https://coreos.com)
 * Comfortable working both individually and with a team
@@ -59,6 +58,7 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 * Assisted in manual acceptance testing
 * Assisted in manual upgrade testing
 * Cut new versioned releases of Deis and Deis-related products
+* Maintained and released free open source software
 * Met with customers for product promotion and technical interviews
 
 ## Product Manager - ActiveState Software, Inc
@@ -68,7 +68,7 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 * Created sample applications to demonstrate common web frameworks
 * Created client libraries in Python to work with Stackato's API
 * Contacted with customers to help solve their issues over IRC, Google Hangouts or email
-* Created custom patches for customers' PaaS solutions
+* Solutions architect with customer and strategic partner engagements
 * Attended development-oriented conferences to talk to potential customers
 * Wrote [blog posts](http://www.activestate.com/blog/authors/matthewf) on projects that I have been working on or conferences that I have been to
 * Contributed code to Stackato's internal git repositories
@@ -110,6 +110,7 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 
 * Co-organizer of the [Docker-Vancouver meetup group](http://www.meetup.com/Docker-vancouver/)
 * Active blogger: http://blog.bacongobbler.com
+* Active speaker at local meetups and conferences: https://www.meetup.com/Docker-vancouver/events/203094412/
 * Attended a game jam in June 2013: http://jam.iamagamer.ca/submissions/30-game-changer
 * Received AeroInfo Award of Excellence
 * Received BCIT President's Entrance Award
@@ -120,9 +121,9 @@ My objective is to work long-term with a company as a Automation Engineer or Sof
 
 * Contributing to Open Source projects
 * Microservice Architecture Patterns
-* Microbreweries
 * Game Development
+* Cars (I own a few project cars, including a 1994 Nissan Skyline GT-R)
 * Dancing
+* Microbreweries
 * Ultimate Frisbee
 * Bowling
-* Guitar design/concepts
