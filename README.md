@@ -30,9 +30,6 @@ My objective is to work long-term with a company as a Site Reliability Engineer 
     * Python
     * Ruby
     * HTML/CSS
-* Experience with common libraries such as:
-    * Go stdlib
-    * Django
 * Proficient and comfortable in an agile environment
 * Proficient with most Operating Systems such as:
     * Debian
@@ -113,10 +110,10 @@ My objective is to work long-term with a company as a Site Reliability Engineer 
 
 # Awards and Points of Interest
 
-* Co-organizer of the [Docker-Vancouver meetup group](http://www.meetup.com/Docker-vancouver/)
-* Occasional blogger: http://blog.bacongobbler.com
+* Co-organizer of the [Helm Developer Summit 2018](https://helmsummitpdx-feb2018.splashthat.com/)
+* Former Co-organizer of the [Docker-Vancouver meetup group](http://www.meetup.com/Docker-vancouver/)
+* Occasional blogger: https://blog.bacongobbler.com
 * Active speaker at local meetups and conferences: https://www.meetup.com/Docker-vancouver/events/203094412/
-* Attended a game jam in June 2013: http://jam.iamagamer.ca/submissions/30-game-changer
 * Received AeroInfo Award of Excellence
 * Received BCIT President's Entrance Award
 * Attained Principal's List (Kwalikum Secondary School)
