@@ -114,14 +114,14 @@ My objective is to work long-term with a company as a Site Reliability Engineer 
 
 # Awards and Points of Interest
 
-* Co-organizer of the [Helm Developer Summit 2018](https://helmsummitpdx-feb2018.splashthat.com/)
+* Open sourced [GoFish](https://gofi.sh)
 * Former Co-organizer of the [Docker-Vancouver meetup group](http://www.meetup.com/Docker-vancouver/)
 * Occasional blogger: https://blog.bacongobbler.com
 * Active speaker at local meetups and conferences: https://www.meetup.com/Docker-vancouver/events/203094412/
 * Received AeroInfo Award of Excellence
 * Received BCIT President's Entrance Award
 * Attained Principal's List (Kwalikum Secondary School)
-* Received Dogwood District Authority Award
+* Received the British Columbia Dogwood District Authority Award
 
 # Interests
 
