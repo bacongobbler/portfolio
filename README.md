@@ -11,7 +11,8 @@ My objective is to work long-term with a company as a Site Reliability Engineer 
 
 * [Active contributor on Github](http://github.com/bacongobbler)
 * Proficient with common development tools such as:
-    * [Kubernetes](http://kubernetes.io/)
+    * [Kubernetes](https://kubernetes.io/)
+    * [Helm](https://helm.sh/)
     * [Docker](https://www.docker.com/)
     * [Vagrant](http://www.vagrantup.com/)
     * [Chef](http://www.opscode.com/)
@@ -34,18 +35,21 @@ My objective is to work long-term with a company as a Site Reliability Engineer 
 * Proficient with most Operating Systems such as:
     * Debian
     * Ubuntu
-    * macOS
+    * MacOS
     * Windows
     * [CoreOS](https://coreos.com)
-* Comfortable working remote and at the office
+* Comfortable working remote and in an office setting
 
 # Work Experience
 
 ## Software Engineer - Microsoft
 ### May 2017 - Present
 
-* Member of the Azure Cloud Services (ACS) team
+* Member of the Azure Container Compute Team team
 * Lead technical engineer for [Draft](https://github.com/Azure/draft)
+* Organization maintainer for [Helm](https://helm.sh)
+* Co-chair member of Helm Summit NA 2018 and Helm Summit EU 2019
+* Program committee member of KubeCon EU 2019
 * engaged with customers to discuss business needs and feature requests
 * Attended developer conferences to engage with the community
 * Cut new releases of Azure-related products
@@ -55,12 +59,12 @@ My objective is to work long-term with a company as a Site Reliability Engineer 
 
 * Learned how to start up a sole proprietorship
 * Contracted out for software development
-* Became a core maintainer of [Deis](https://deis.com/)
+* Core maintainer of [Deis Workflow](https://github.com/deis/workflow)
 * Arranged meetings for debugging issues with clients
 * Assisted and reviewed community contributors' pull requests
 * Assisted in manual acceptance and upgrade tests
 * Cut new releases of Deis and Deis-related products
-* Maintained and released free open source software
+* Maintained and released miscellaneous free open source software
 * Met with customers for product promotion and technical interviews
 
 ## Product Manager - ActiveState Software, Inc
@@ -122,10 +126,11 @@ My objective is to work long-term with a company as a Site Reliability Engineer 
 # Interests
 
 * Contributing to Open Source projects
-* Microservice Architecture Patterns
-* Cars (I own a few project cars, including a 1994 Nissan Skyline GT-R)
-* The "Internet of Things", 3D printing
+* Carpentry/fine woodworking
+* The "Internet of Things"
+* 3D printing
 * Dancing
 * Microbreweries
 * Ultimate Frisbee
+* Kickboxing
 * Bowling
