@@ -26,8 +26,9 @@ My objective is to work long-term with a company as a Site Reliability Engineer 
     * nginx
     * jenkins
     * [TravisCI](https://travis-ci.org/)
-* Proficient knowledge of Object Oriented Programming/Procedural Programming languages such as:
+* Proficient knowledge of programming languages such as:
     * Go
+    * Rust
     * Python
     * Ruby
     * HTML/CSS
